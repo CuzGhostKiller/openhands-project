@@ -1,0 +1,23 @@
+{
+  "timestamp": "2026-10-10T19:42:23.564166",
+  "system_info": {
+    "os": "Linux",
+    "os_version": "#208-Ubuntu SMP Fri Sep 4 10:22:38 UTC 2026",
+    "cpu_model": "x86_64",
+    "logical_cpu_count": 32,
+    "total_ram": 194081767424,
+    "available_ram": 166438268928
+  },
+  "cpu_usage": 0.3,
+  "ram_usage": 14.2,
+  "disk_usage": {
+    "total": 105089261568,
+    "used": 88618139648,
+    "free": 11085635584,
+    "percent": 88.9
+  },
+  "docker_installed": false,
+  "warnings": [
+    "Disk usage exceeds 85%"
+  ]
+}
